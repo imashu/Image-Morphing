@@ -6,7 +6,7 @@ Image Morphing with Python
 Introduction
 Image morphing is a technique in computer graphics used to create a smooth transition between two images. One of the critical steps in creating a morphed image is to find corresponding points between two images. Delaunay triangulation is a standard method for finding these corresponding points. In this report, we will explain the steps involved in face morphing using Delaunay triangulation.
 This code morphs two images of faces together and creates a GIF of the morphing process. Here are the steps involved in the code:
-![Uploading PartA.gif…]()
+![](https://github.com/imashu/Image-Morphing/blob/main/PartA.gif)
 
 
 # Steps in Face Morphing using Delaunay Triangulation
